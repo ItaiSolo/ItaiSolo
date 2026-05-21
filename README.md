@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Itai Solomon 👋</h1>
 
-<h3 align="center">Data & Information Engineering Student @ Technion | AI & Deep Learning Enthusiast</h3>
+<h3 align="center">Data Science Student at The Technion | AI & Deep Learning Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/itai-solomon-israel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -12,19 +12,18 @@
 
 ### 👨‍💻 About Me
 
-*   🎓 **B.Sc. in Data and Information Engineering** at the **Technion - Israel Institute of Technology**.
-*   🧠 Passionate about **Artificial Intelligence, Deep Learning, and Computer Vision**.
-*   🎮 Indie **Game Developer** in my free time, specializing in **Unreal Engine** and C++.
-*   🏃‍♂️ Also into **Sci-Fi books, Tennis, and Running**.
+*   🎓 **B.Sc. in Data Science and Engineering** at the **Technion - Israel Institute of Technology**.
+*   🧠 Passionate about **Artificial Intelligence, Deep Learning and Computer Vision**.
+*   🎮 In my free time I develop games using **Unreal Engine** and C++.
+*   🏃‍♂️ Outside of university, I'm into **Sci-Fi books, Tennis, and Long-distance running**.
 *   📫 Reach out on [LinkedIn](https://www.linkedin.com/in/itai-solomon-israel) for collaboration, AI discussions, or a good book recommendation!
 
 ---
 
-### 🎯 2026 Focus Areas
+### 🎯 2026-2027 Focus Areas
 
 *   **Computer Vision:** Image classification, object detection, and advanced image analysis.
 *   **Generative AI & LLMs:** Exploring the integration of foundational models in data pipelines.
-*   **Data Engineering & MLOps:** Building scalable, reliable data architectures and tracking models.
 
 ---
 
@@ -39,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="45" height="45"/>&nbsp;
 </p>
 
-#### **AI, Data & Game Dev**
+#### **Data Science**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="45" height="45"/>&nbsp;
@@ -55,10 +54,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 My last Projects
 
-*   **[Unreal Engine Game / Project Name](Link to your repo)** - A brief description of a game or mechanics you developed using C++ and Unreal Engine. Highlight performance optimizations or math/physics logic applied.
-*   **[Computer Vision Project Name](Link to your repo)** - A deep learning model built with TensorFlow to analyze and classify images. Mention the dataset used and accuracy achieved.
-*   **[Data Engineering Pipeline](Link to your repo)** - A robust data processing pipeline utilizing PostgreSQL and Python/Pandas to clean, transform, and analyze large datasets.
-
+*   **[Schedule Optimization via Genetic Algorithm](https://github.com/ItaiSolo/Schedule-Genetic-Algorithm)** - An implementation of a genetic algorithm designed to solve complex scheduling and resource allocation problems
 ---
