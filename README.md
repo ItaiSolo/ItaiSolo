@@ -14,43 +14,45 @@
 
 *   🎓 **B.Sc. in Data and Information Engineering** at the **Technion - Israel Institute of Technology**.
 *   🧠 Passionate about **Artificial Intelligence, Deep Learning, and Computer Vision**.
-*   💻 Currently seeking opportunities to contribute to cutting-edge AI projects and image analysis solutions.
-*   📚 When I'm not training models or coding, you can find me diving into **Sci-Fi books**.
-*   📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/itai-solomon-israel) for collaboration, AI discussions, or a good book recommendation!
+*   💻 Currently looking for opportunities to build smart, data-driven solutions and image analysis models.
+*   🏃‍♂️ Outside of university, I'm into **Sci-Fi books, Tennis, and Running**.
+*   📫 Reach out on [LinkedIn](https://www.linkedin.com/in/itai-solomon-israel) for collaboration, AI discussions, or a good book recommendation!
+
+---
+
+### 🎯 2026 Focus Areas
+
+*   **Computer Vision:** Image classification, object detection, and advanced image analysis.
+*   **Generative AI & LLMs:** Exploring the integration of foundational models in data pipelines.
+*   **Data Engineering & MLOps:** Building scalable, reliable data architectures and tracking models.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages:**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-</p>
+**Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++
+-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-**AI, Data & Tools:**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</p>
+**AI & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Databases & Enterprise Systems**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-008FD3?style=flat-square&logo=sap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-*   **[Computer Vision Project Name](Link to your repo)** - A deep learning model built with PyTorch/TensorFlow to analyze and classify images. Mention the dataset used and accuracy achieved.
-*   **[Data Engineering Project Name](Link to your repo)** - A pipeline or data analysis tool showcasing data manipulation skills using Python and Pandas.
+*   **[Computer Vision Project Name](Link to your repo)** - A deep learning model built with TensorFlow to analyze and classify images. Mention the dataset used and accuracy achieved.
+*   **[Data Engineering Pipeline](Link to your repo)** - A robust data processing pipeline utilizing PostgreSQL and Python/Pandas to clean, transform, and analyze large datasets.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItaiSolo&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Itai's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaiSolo&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="48%">
-</p>
