@@ -14,8 +14,8 @@
 
 *   🎓 **B.Sc. in Data and Information Engineering** at the **Technion - Israel Institute of Technology**.
 *   🧠 Passionate about **Artificial Intelligence, Deep Learning, and Computer Vision**.
-*   💻 Currently looking for opportunities to build smart, data-driven solutions and image analysis models.
-*   🏃‍♂️ Outside of university, I'm into **Sci-Fi books, Tennis, and Running**.
+*   🎮 Indie **Game Developer** in my free time, specializing in **Unreal Engine** and C++.
+*   🏃‍♂️ Also into **Sci-Fi books, Tennis, and Running**.
 *   📫 Reach out on [LinkedIn](https://www.linkedin.com/in/itai-solomon-israel) for collaboration, AI discussions, or a good book recommendation!
 
 ---
@@ -30,28 +30,34 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++
--00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+#### **Programming Languages**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="45" height="45"/>&nbsp;
+</p>
 
-**AI & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+#### **AI, Data & Game Dev**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="45" height="45"/>&nbsp;
+</p>
 
-**Databases & Enterprise Systems**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-008FD3?style=flat-square&logo=sap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+#### **Databases & Enterprise Systems**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
+</p>
 
 ---
 
 ### 🚀 Featured Projects
 
+*   **[Unreal Engine Game / Project Name](Link to your repo)** - A brief description of a game or mechanics you developed using C++ and Unreal Engine. Highlight performance optimizations or math/physics logic applied.
 *   **[Computer Vision Project Name](Link to your repo)** - A deep learning model built with TensorFlow to analyze and classify images. Mention the dataset used and accuracy achieved.
 *   **[Data Engineering Pipeline](Link to your repo)** - A robust data processing pipeline utilizing PostgreSQL and Python/Pandas to clean, transform, and analyze large datasets.
 
