@@ -20,10 +20,10 @@
 
 ---
 
-### 🎯 2026-2027 Focus Areas
+### 🎯 2027-2028 Focus Areas
 
 *   **Computer Vision:** Image classification, object detection, and advanced image analysis.
-*   **Generative AI & LLMs:** Exploring the integration of foundational models in data pipelines.
+*   
 
 ---
 
